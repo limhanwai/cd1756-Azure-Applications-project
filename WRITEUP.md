@@ -29,3 +29,5 @@ Azure App Service: Ideal for modern web applications and APIs, allowing develope
 
 Recommendation
 For a CMS app, Azure App Service is generally the better choice. It offers easier scalability, high availability, and simplifies the workflow by abstracting infrastructure management. This allows your team to focus on developing and maintaining the application rather than managing servers
+
+App URL: https://udacitycms-d3g5bshya0b3a5dc.canadacentral-01.azurewebsites.net/login
